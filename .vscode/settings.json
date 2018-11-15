@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "C:\\Users\\masam\\PyWorks\\Blog\\blog_env\\Scripts",
+    "python.linting.pylintPath": "C:\\Users\\masam\\PyWorks\\Blog\\blog_env\\Scripts\\pylint.exe",
+    "python.autoComplete.extraPaths": [
+        "C:\\Users\\masam\\PyWorks\\Blog\\blog_env\\Lib\\site-packages"
+    ]
+}
